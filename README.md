@@ -15,7 +15,7 @@ A React Native application.
 ### Installation
 
 ```bash
-npm install
+yarn install
 ```
 
 ### Running the App
@@ -23,33 +23,33 @@ npm install
 **iOS:**
 
 ```bash
-npm run ios
+yarn ios
 ```
 
 **Android:**
 
 ```bash
-npm run android
+yarn android
 ```
 
 **Start Metro bundler:**
 
 ```bash
-npm start
+yarn start
 ```
 
 ## Development
 
 ### Available Scripts
 
-- `npm start` - Start Metro bundler
-- `npm run android` - Run on Android
-- `npm run ios` - Run on iOS
-- `npm run lint` - Run ESLint
-- `npm run lint:fix` - Fix ESLint errors
-- `npm run format` - Format code with Prettier
-- `npm run format:check` - Check code formatting
-- `npm test` - Run tests
+- `yarn start` - Start Metro bundler
+- `yarn android` - Run on Android
+- `yarn ios` - Run on iOS
+- `yarn lint` - Run ESLint
+- `yarn lint:fix` - Fix ESLint errors
+- `yarn format` - Format code with Prettier
+- `yarn format:check` - Check code formatting
+- `yarn test` - Run tests
 
 ### Code Quality
 
